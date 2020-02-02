@@ -1,7 +1,9 @@
 # VueJS-chat
 
 > Google Firebase
+
 > **Backend**: Node.js + Express.js
+
 > **Frontend**: Vue CLI (Babel, Eslint: AirBnb) + ElementUI
 
  - Adaptive layout
@@ -12,8 +14,8 @@
  - Infinite scroll for messages history
  - RESTful API
 
-![Desktop](images/desktop?raw=true "Desktop")
-![Mobile - Contacts list](images/mobile_contacts?raw=true "Mobile - Contacts list") ![Mobile - History](images/mobile_history?raw=true "Mobile - History") ![Mobile - Offline messages](images/mobile_offline?raw=true "Mobile - Offline messages")
+![Desktop](images/desktop.jpg?raw=true "Desktop")
+![Mobile - Contacts list](images/mobile_contacts.jpg?raw=true "Mobile - Contacts list") ![Mobile - History](images/mobile_history.jpg?raw=true "Mobile - History") ![Mobile - Offline messages](images/mobile_offline.jpg?raw=true "Mobile - Offline messages")
 
 
 ## Build Setup
